@@ -1,0 +1,2 @@
+GNSSLibrary==1.0.0
+serial==3.5 
