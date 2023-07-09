@@ -39,5 +39,5 @@ Aktualnie projekt GNSS jest w fazie wczesnego rozwoju. Planowane funkcje i udosk
 - Implementacja dodatkowych algorytmów przetwarzania sygnałów GNSS.
 - Rozbudowa dokumentacji i testów jednostkowych.
 
-Więcej informacji można znaleźć w [repozytorium projektu GNSS](https://github.com/twoj-projekt-gnss).
+Więcej informacji można znaleźć w [repozytorium projektu GNSS](https://github.com/zlotyGNSS/GNSS_ZED-F9P).
 
